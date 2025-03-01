@@ -30,7 +30,7 @@ This will be my first project on frontend-mentor as a newbie and i am excited to
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Sirjosh01/QR-code-component.git)
-- Live Site URL: [Add live site URL here](https://vercel.com/egene-joshua-ojotules-projects)
+- Live Site URL: [Add live site URL here](https:// https://sir-josh01.github.io/qr-component/)
 
 ## My process
 I started by properly observing the projects to decide on what approach in terms of color and structure to start with. I started with HTML structure and used CSS to follow through the design from the top down to the bottom.
