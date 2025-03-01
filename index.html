@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <meta name="author" content="Sir-josh">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="https://fonts.google.com/specimen/Outfit">
+  
+  <title>Frontend Mentor | QR code component</title>
+
+  <style>
+
+    .attribution { 
+      font-size: 11px; 
+      text-align: center;
+      margin-top: 60px;
+     }
+
+    .attribution a { 
+      color: hsl(228, 45%, 44%);
+     }
+
+    .full-screen-container {
+      background: hsl(212, 45%, 89%);
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .code-component-container {
+      background-color: hsl(0, 0%, 100%);
+      width: 200px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 10px 10px;
+      border-radius: 8px;
+    }
+
+    .image-container {
+      width: 200px;
+    }
+
+    .qr-image {
+      width: 100%;
+      border-radius: 8px;
+    }
+
+    .text-container {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      width: 180px;
+    }
+
+    .text-container .title,
+    .text-container .body {
+      text-align: center;
+    }
+
+    .title {
+      font-size: 15px;
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-weight: bold;
+      color: hsl(218, 44%, 22%);
+      margin-bottom: 3px;
+    }
+
+    .body {
+      font-size: 11px;
+      color:hsl(216, 15%, 48%);
+      font-family: outfit;
+      font-weight:400;
+      line-height: 15px;
+    }
+
+  
+  </style>
+</head>
+<body>
+
+  <div class="full-screen-container">
+    <div class="code-component-container">
+      <div class="image-container">
+        <a href="frontendmentor.com"><img src="./images/image-qr-code.png" class="qr-image" alt="qr-image"></a>
+      </div>
+      <div class="text-container">
+        <p class="title">
+          Improve your front-end skills by building projects
+        </p>
+        <p class="body">
+          Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
+        </p>
+      </div>
+    </div>
+
+    <footer>
+      <div class="attribution">
+        Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+        Coded by <a href="https://github.com/Sirjosh01/QR-code-component.git">Sir-josh</a>.
+      </div>
+    </footer>
+  </div>
+
+</body>
+</html>
