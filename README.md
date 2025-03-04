@@ -29,8 +29,8 @@ This will be my first project on frontend-mentor as a newbie and i am excited to
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Sirjosh01/QR-code-component.git)
-- Live Site URL: [Add live site URL here](https:// https://sir-josh01.github.io/qr-component/)
+- Solution URL: (https://github.com/Sirjosh01/QR-code-component.git)
+- Live Site URL: (https:// https://sir-josh01.github.io/qr-component/)
 
 ## My process
 I started by properly observing the projects to decide on what approach in terms of color and structure to start with. I started with HTML structure and used CSS to follow through the design from the top down to the bottom.
@@ -48,15 +48,15 @@ Flex-box is powerful and amazing, it helps for greater and better alignment.
 
 
 ### Continued development
-For me this area will the Grid in CSS, tranform and HSL color property for now.
+For me this area will be the Grid in CSS, tranform and HSL color property for now.
 
 ### Useful resources
 
 - [README.md](https://www.frontendmentor.com/project) - This helped me for proper documentary. I really liked this pattern and will use it going forward.
 
 ## Author
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@Josh35823482](https://www.frontendmentor.io/profile/Josh35823482)
+- Website - [sir-josh-github](https://www.github.com/Sirjosh01)
+- Frontend Mentor - [@sir-josh01](https://www.frontendmentor.io/profile/sir_josh01)
 - Twitter - [@Sir_josh01](https://www.twitter.com/Sir_josh01)
 
 ## Acknowledgments
